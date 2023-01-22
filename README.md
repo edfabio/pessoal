@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @edfabio
 - 👀 I'm interested in always being in touch with technological news and sharing knowledge
-- 🌱 I'm learning Statistics
+- 🌱 I'm a continuos student 
 - 💞️ I'm looking to collaborate on programming and data science fronts
 - 📫 How to reach me here via Git or Linkedin https://www.linkedin.com/in/edsel-verduro-59549111/
 
